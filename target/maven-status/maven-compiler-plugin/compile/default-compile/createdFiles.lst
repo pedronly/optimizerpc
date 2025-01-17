@@ -1,0 +1,5 @@
+Utils.class
+com\optimizer\App.class
+StartupManager.class
+MemoryOptimizer.class
+com\optimizer\ConfigLoader.class
